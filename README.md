@@ -1,4 +1,5 @@
 Eventure:
+
 Eventure is a smart event recommendation platform that helps you decide whether a networking event is worth attending.
 
 🎯 Purpose
