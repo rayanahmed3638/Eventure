@@ -23,4 +23,5 @@ Uses this data to rate the event based on compatibility with your profile
 You’ll get a personalized score for each event, helping you make informed decisions about which ones are truly worth your time.
 
 📽 Demo
+
 Check out the demo here: https://www.youtube.com/watch?v=cABX9a9b2iY
