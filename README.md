@@ -1,4 +1,4 @@
-Eventure
+Eventure:
 Eventure is a smart event recommendation platform that helps you decide whether a networking event is worth attending.
 
 🎯 Purpose
@@ -19,4 +19,4 @@ Uses this data to rate the event based on compatibility with your profile
 You’ll get a personalized score for each event, helping you make informed decisions about which ones are truly worth your time.
 
 📽 Demo
-Check out the demo here: [YouTube Demo](https://chatgpt.com/c/688e828e-6950-8320-a900-367a094dde84#:~:text=the%20demo%20here%3A-,YouTube%20Demo,-Let%20me%20know)
+Check out the demo here: https://www.youtube.com/watch?v=cABX9a9b2iY
